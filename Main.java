@@ -5,5 +5,8 @@ class Main {
    if(x==19){
    
     System.out.println("Hello world!");
+else{
+   System.out.println("Hello world!");
   }
+
 }
